@@ -1,0 +1,85 @@
+.header {
+    text-align: center;
+    background-color: black;
+    height: 15vh;
+    border-bottom: 2px solid rgb(211, 211, 13);
+    padding-top: 1%;
+    align-items: center;
+}
+
+.header img {
+    width: 2%;
+    margin: auto;
+}
+
+header h1 {
+    color: rgb(215, 186, 0);
+    font-size: 40pt;
+}
+
+.profgrid {
+    background-color: rgb(17, 17, 17);
+    height: 75vh;
+}
+
+.footer {
+    text-align: center;
+    background-color: black;
+    color: white;
+    height: 8vh;
+    padding-top: 1%;
+    border-top: 2px solid rgb(211, 211, 13);
+}
+
+/* CardPanel */
+.profPic {
+    position: absolute;
+    width: 30%;
+    margin: auto;
+    margin-left: 17%;
+    margin-top: 2%;
+}
+
+.skillPic {
+    position: absolute;
+    margin: auto;
+    width: 40%;
+    margin-left: 48%;
+    margin-top: 2%;
+}
+
+.skillPic img {
+    padding: 5px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.workCarr {
+    position: absolute;
+    margin-left: 48%;
+    margin-top: 16%;
+}
+
+.gitPanel {
+    background-color: rgb(17, 17, 17);
+    height: 80vh;
+}
+
+/* Github CSS */
+
+
+.gitPan h2 {
+    text-align: center;
+    color: rgb(198, 233, 0);
+    margin-bottom: 1cm;
+}
+
+.gitPan {
+    margin-left: 7cm;
+    margin-right: 7cm;
+    text-align: center;
+}
+
+.gitcom img {
+    padding: 10px;
+}
